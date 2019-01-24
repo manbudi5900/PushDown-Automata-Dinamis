@@ -1,0 +1,9 @@
+1
+q0,
+6
+q0,a,z=q0,AZ
+q0,b,z=q0,BZ
+q0,a,a=q0,A
+q0,b,b=q0,B
+q0,a,b=q0,E
+q0,b,a=q0,E
